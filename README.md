@@ -82,7 +82,10 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
 ---
 ## Screenshots
 Home page
-![image](https://github.com/user-attachments/assets/db62e332-1be5-4b8a-b564-c9fb9d145e7a)
+![image](https://github.com/user-attachments/assets/7dcbb4ac-b401-4b55-81a1-84863cc9909a)
+![Uploading image.png…]()
+
+
 Login Page
 ![image](https://github.com/user-attachments/assets/f69cdba0-cca3-43b4-bde1-bedf8c9db596)
 Clone Repository and run the project for more ...
