@@ -58,7 +58,7 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
    ```bash
    mvn spring-boot:run
    ```
-   or open then file from intellij and run from main folder
+   or open then file from intellij and run from main folder "AntiraggingApplication.java"
 
 ---
 
@@ -85,6 +85,6 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
 
 ##  Acknowledgements
 
-Thanks to mentors, teammates, and institutions supporting student safety initiatives.
+Thanks to mentors and my teammates
 
 
