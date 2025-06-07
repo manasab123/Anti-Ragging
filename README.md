@@ -80,6 +80,9 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
    ```
 
 ---
+## Screenshots
+Home page
+![image](https://github.com/user-attachments/assets/db62e332-1be5-4b8a-b564-c9fb9d145e7a)
 
 
 
