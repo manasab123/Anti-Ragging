@@ -32,8 +32,72 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
 - Postman (API testing)  
 - VS Code (frontend) / IntelliJ (backend)
 
-### To Run FrontEnd
-cd frontend
-npm install
-npm start
+##  Setup Instructions
+
+###  Backend Setup (Spring Boot)
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/anti-ragging-system.git
+   cd anti-ragging-system/backend
+   ```
+
+2. Create a MySQL database:
+   ```sql
+   CREATE DATABASE AntiRagging;
+   ```
+
+3. Update your `application.properties`:
+   ```properties
+   spring.datasource.url=jdbc:mysql://localhost:3306/AntiRagging
+   spring.datasource.username=your_mysql_username
+   spring.datasource.password=your_mysql_password
+   ```
+
+4. Run the backend:
+   ```bash
+   mvn spring-boot:run
+   ```
+   or open then file from intellij and run from main folder
+
+---
+
+###  Frontend Setup (React)
+
+1. Navigate to the frontend folder:
+   ```bash
+   cd ../frontend
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the frontend:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+##  Screenshots
+
+
+
+
+## Contributing
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Commit your changes (`git commit -m 'Add feature'`)  
+4. Push to the branch (`git push origin feature-name`)  
+5. Open a Pull Request
+
+
+
+##  Acknowledgements
+
+Thanks to mentors, teammates, and institutions supporting student safety initiatives.
+
 
