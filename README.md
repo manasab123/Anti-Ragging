@@ -76,7 +76,7 @@ A secure and efficient web-based platform to **report**, **track**, and **preven
 
 3. Run the frontend:
    ```bash
-   npm run dev
+   npm start
    ```
 
 ---
